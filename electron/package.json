@@ -1,0 +1,7 @@
+{
+  "name": "app name",
+  "version": "0.0.1",
+  "author": "author name",
+  "main": "js/main.js",
+  "dependencies": {}
+}

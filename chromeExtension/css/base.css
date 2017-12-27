@@ -1,0 +1,10 @@
+/*base*/
+body{
+	font-family: "Helvetica", "Arial", "FreeSans", "Verdana", "Tahoma", "Lucida Sans", "Lucida Sans Unicode", "Luxi Sans", sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+	color: #333;
+}
+ul{
+	list-style: none;
+}

@@ -1,0 +1,31 @@
+{
+    "type": "flow",
+    "description": "",
+    "items": [
+        {
+            "project": "sample_project",
+            "collection": "sample_collection",
+            "item": "sample_comments"
+        },
+        {
+            "project": "sample_project",
+            "collection": "sample_collection",
+            "item": "sample_script"
+        },
+        {
+            "project": "sample_project",
+            "collection": "sample_collection",
+            "item": "sample_posts"
+        },
+        {
+            "project": "sample_project",
+            "collection": "sample_collection",
+            "item": "sample_pipe"
+        },
+        {
+            "project": "sample_project",
+            "collection": "sample_collection",
+            "item": "sample_profile"
+        }
+    ]
+}

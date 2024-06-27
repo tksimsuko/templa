@@ -1,0 +1,11 @@
+{
+    "type": "api",
+    "description": "",
+    "method": "GET",
+    "baseURL": "{{jsonServerURL}}",
+    "url": "/posts",
+    "headers": {},
+    "data": {
+        "replaceValue": "{{pipeReplace}}"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "type": "pipe",
+    "description": "",
+    "assign": {
+        "prev.out.data.author": "next.in.data.apply",
+        "prev.out.data.title": "state.token"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "api",
+    "description": "",
+    "method": "GET",
+    "baseURL": "{{jsonServerURL}}",
+    "url": "/comments",
+    "headers": {},
+    "data": ""
+}
